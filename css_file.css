@@ -1,0 +1,316 @@
+@media (min-width:992px) {  
+* {
+		margin:0;
+		padding:0;
+		box-sizing:border-box;
+		}
+		
+body {
+	background-color:#f1f1f1;
+	font-family:calibri;
+	
+	}
+	
+.section1 {
+	background-color:silver;
+	width:75%;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+	
+}
+
+.section2 {
+	background-color:orange;
+	width:75%;
+	color:white;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+
+}
+
+.section3 {
+	background-color:lime;
+	width:75%;
+	color:solid gray;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+
+}
+.our_menu {
+	position:absolute;
+	font-size:22px;
+	left:650px;
+	top:80px;
+	}
+	
+	
+.chicken {
+	position:absolute;
+	left:50px;
+	top:250px;
+	width:30%;
+	margin:10px;
+	padding:10px;
+	}
+	
+.beef {
+	width:30%;
+	position:absolute;
+	left:550px;
+	top:250px;
+	margin:10px;
+	padding:10px;
+	}
+	
+.sushi {
+	width:30%;
+	position:absolute;
+	top:250px;
+	left:1050px;
+	margin:10px;
+	padding:10px;
+	}
+
+.chicken section h2 {
+	background-color:pink;
+	text-align:center;
+	
+}
+
+.beef section h2 {
+	background-color:darkRed;
+	color:white;
+	text-align:center;
+
+}
+.sushi section h2 {
+	background-color:cyan;
+	text-align:center;
+
+}
+
+
+h2 {
+	border: 2px solid black;
+	margin-bottom:10px;
+	}
+}
+
+@media (min-width:767px) and (max-width:991px ) {  
+
+
+* {
+		margin:0;
+		padding:0;
+		box-sizing:border-box;
+		}
+		
+body {
+	background-color:#f1f1f1;
+	font-family:calibri;}
+	
+
+div { float:left; }
+
+.all { 
+	position:absolute;
+	left:200px;
+	top:250px; 
+	}
+	
+.section1 {
+	background-color:silver;
+	width:75%;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+	
+}
+
+.section2 {
+	background-color:orange;
+	width:75%;
+	color:white;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+
+}
+
+.section3 {
+	background-color:lime;
+	width:75%;
+	color:solid gray;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+
+}
+.our_menu {
+	position:absolute;
+	font-size:22px;
+	left:375px;
+	top:80px;
+	}
+	
+	
+.chicken {
+	width:40%;
+	margin:10px;
+	padding:10px;
+	}
+	
+.beef {
+	width:40%;
+	margin:10px;
+	padding:10px;
+	}
+	
+.sushi {
+	width:97%;
+	margin:10px;
+	padding:10px;
+	}
+
+.chicken section h2 {
+	background-color:pink;
+	text-align:center;
+	
+}
+
+.beef section h2 {
+	background-color:darkRed;
+	color:white;
+	text-align:center;
+
+}
+.sushi section h2 {
+	background-color:cyan;
+	text-align:center;
+
+}
+
+
+h2 {
+	border: 2px solid black;
+	margin-bottom:10px;
+	}
+}
+
+@media (max-width:767px) {  
+* {
+		margin:0;
+		padding:0;
+		box-sizing:border-box;
+		}
+		
+body {
+	background-color:#f1f1f1;
+	font-family:calibri;}
+	
+
+.all { 
+	position:absolute;
+	left:200px;
+	top:250px; 
+	}
+	
+.section1 {
+	background-color:silver;
+	width:75%;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+	
+}
+
+.section2 {
+	background-color:orange;
+	width:75%;
+	color:white;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+
+}
+
+.section3 {
+	background-color:lime;
+	width:75%;
+	color:solid gray;
+	font-weight:bold;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	border: 3px solid black;
+
+}
+.our_menu {
+	position:absolute;
+	font-size:22px;
+	left:290px;
+	top:80px;
+	}
+	
+	
+.chicken {
+	width:90%;
+	margin:10px;
+	padding:10px;
+	}
+	
+.beef {
+	width:90%;
+	margin:10px;
+	padding:10px;
+	}
+	
+.sushi {
+	width:90%;
+	margin:10px;
+	padding:10px;
+	}
+
+.chicken section h2 {
+	background-color:pink;
+	text-align:center;
+	
+}
+
+.beef section h2 {
+	background-color:darkRed;
+	color:white;
+	text-align:center;
+
+}
+.sushi section h2 {
+	background-color:cyan;
+	text-align:center;
+
+}
+
+
+h2 {
+	border: 2px solid black;
+	margin-bottom:10px;
+	}
+}
